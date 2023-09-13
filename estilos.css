@@ -1,0 +1,7 @@
+@font-face {
+    font-family: BurbankSmall-Medium;
+    src: url('BurbankSmall-Medium.otf') format('truetype');
+}
+#contenedor{
+    font-family: BurbankSmall-Medium;
+}
